@@ -1,0 +1,37 @@
+{
+  "id": "4c824784-5cd3-455c-88e6-c1eca31aacf9",
+  "releaseName": "behavior",
+  "lastModified": "2017-11-08T21:59:35.4090821Z",
+  "lastDeployed": "0001-01-01T00:00:00",
+  "lastRollback": "0001-01-01T00:00:00",
+  "releaseItems": [
+    {
+      "database": "master",
+      "recursive": false,
+      "installMode": 0,
+      "sitecoreItemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 1,
+      "sitecoreItemId": "{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    },
+    {
+      "database": "master",
+      "recursive": true,
+      "installMode": 1,
+      "sitecoreItemId": "{1930BBEB-7805-471A-A3BE-4858AC7CF696}",
+      "rolledback": null,
+      "languages": [],
+      "autoPublish": false
+    }
+  ],
+  "serverDeployments": null
+}
